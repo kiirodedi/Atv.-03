@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,21 @@ namespace Atv._03
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void calculadoraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Process.Start("calc.exe");
+        }
+
+        private void blocoDeNotasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Process.Start("notepad.exe");
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\bin\Debug\Atv.-03.exe.config
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\bin\Debug\Atv.-03.exe
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\bin\Debug\Atv.-03.pdb
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\obj\Debug\Atv.-03.csproj.AssemblyReference.cache
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\obj\Debug\Atv._03.Form1.resources
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\obj\Debug\Atv._03.Properties.Resources.resources
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\obj\Debug\Atv.-03.csproj.GenerateResource.cache
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\obj\Debug\Atv.-03.csproj.CoreCompileInputs.cache
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\obj\Debug\Atv.-03.exe
+C:\Users\dedim\source\repos\Atv.-03\Atv.-03\obj\Debug\Atv.-03.pdb
